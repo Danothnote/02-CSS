@@ -1,0 +1,20 @@
+a {
+    background-color: cornflowerblue;
+    border: 2px solid;
+    border-radius: 15px;
+    padding: 5px 10px 5px 10px;
+    box-shadow: 3px 3px 5px black;
+}
+
+a:link {
+    color: black;
+    text-decoration: none;
+}
+
+a:visited {
+    color: black;
+}
+
+a:hover {
+    background-color: lightblue;
+}

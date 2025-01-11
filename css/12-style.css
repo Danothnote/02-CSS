@@ -1,0 +1,38 @@
+div {
+    height: 100px;
+    width: 100px;
+    border: 1px solid blueviolet;
+    position: relative;
+}
+
+.content1 {
+    position: sticky;
+    top: 0px;
+}
+
+.content2 {
+    position: relative;
+    top: 30px;
+    left: 50px;
+}
+
+.content3 {
+    position: fixed;
+    background-color: aqua;
+    top: 50%;
+    left: 10%;
+}
+
+.padre{
+    left: 50%;
+    width: 300px;
+    height: 300px;
+    background-color: rgb(246, 133, 133);
+}
+
+.hijo {
+    position: absolute;
+    background-color: blueviolet;
+    right: 0%;
+    bottom: 0%;
+}

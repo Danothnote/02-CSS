@@ -1,0 +1,11 @@
+div {
+    border: 5px solid green;
+    width: 500px;
+    height: 500px;
+}
+
+.dentro {
+    width: 50px;
+    height: 30px;
+    display: none;
+}

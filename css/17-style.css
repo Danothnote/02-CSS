@@ -1,0 +1,20 @@
+body {
+   width: 700px;
+   height: 500px;
+   background-color: blueviolet; 
+   margin-inline: auto;
+}
+
+@media (max-width: 400px) {
+    body {
+        background-color: brown;
+    }
+}
+
+.contenedor {
+
+}
+
+#myid {
+    
+}

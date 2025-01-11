@@ -1,0 +1,16 @@
+.clase1 {
+    background-color: brown;
+    width: 700px;
+    height: 300px;
+    margin-bottom: 20px;
+    border: 20px solid;
+    box-sizing: content-box;
+}
+
+.clase2 {
+    background-color: blueviolet;
+    width: 700px;
+    height: 300px;
+    border: 20px solid;
+    box-sizing: border-box;
+}

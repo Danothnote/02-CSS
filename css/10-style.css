@@ -1,0 +1,27 @@
+.tabla, th, td {
+    border: 1px solid blueviolet;
+}
+
+.tabla {
+    border-collapse: collapse;
+}
+
+th, td {
+    border-bottom: 1.5px solid red;
+}
+
+tr:nth-child(even) {
+    background-color: burlywood;
+}
+
+tr:nth-child(odd) {
+    background-color: chocolate;
+}
+
+th {
+    background-color: rgb(233, 129, 129);
+}
+
+tr:hover {
+    background-color: cadetblue;
+}

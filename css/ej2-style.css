@@ -1,0 +1,41 @@
+body {
+    margin: 0px;
+    box-sizing: content-box;
+}
+
+.container0 {
+    height: calc(75vh);
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+}
+
+.left {
+    background-color: blueviolet;
+}
+
+.container1 {
+    display: grid;
+    grid-column: 1fr 1fr;
+}
+
+.rightUp {
+    background-color: burlywood;
+}
+
+.container2 {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.rightDown1 {
+    background-color: chocolate;
+}
+
+.rightDown2 {
+    background-color: brown;
+}
+
+.down {
+    background-color: rgb(29, 29, 188);
+    height: calc(25vh);
+}

@@ -1,0 +1,11 @@
+.container {
+    width: 30%;
+    border: 5px solid blueviolet;
+}
+
+.saludo {
+    width: 60%;
+    border: 3px solid green;
+    margin-inline: auto;
+    text-align: center;
+}

@@ -1,0 +1,91 @@
+.mi-clase {
+    background-color: rgba(137, 43, 226, 0.5);
+    border: 2px solid;
+    border-radius: 10px;
+    width: 600px;
+    padding: 20px;
+    margin: 20px;
+}
+
+.contenedor2 {
+    background-color: rgba(43, 226, 107, 0.5);
+    border: 2px solid;
+    border-radius: 10px;
+    width: 600px;
+    padding: 20px;
+    margin: 20px;
+}
+
+.contenedor3 {
+    background-color: rgba(231, 162, 50, 0.5);
+    border: 2px solid;
+    border-radius: 10px;
+    width: 600px;
+    padding: 20px;
+    margin: 20px;
+}
+
+.contenedor4 {
+    background-color: rgba(79, 79, 225, 0.5);
+    border: 2px solid;
+    border-radius: 10px;
+    width: 600px;
+    padding: 20px;
+    margin: 20px;
+}
+
+.arriba {
+    font-size: large;
+    font-weight: 900;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.centro {
+    font-size: medium;
+    font-weight: 500;
+    font-family: cursive;
+    text-align: center;
+}
+
+.abajo {
+    font-size: small;
+    font-family: monospace;
+}
+
+.up {
+    text-transform: uppercase;
+}
+
+.down {
+    text-transform: lowercase;
+}
+
+.cap {
+    text-transform: capitalize;
+}
+
+.titulo {
+    text-align: center;
+}
+
+.alineacion {
+    text-align: justify;
+}
+
+.titulo2 {
+    text-align: center;
+    letter-spacing: 5px;
+    text-shadow: 3px 5px 5px black, 0 0 1em red;
+}
+
+.indentacion {
+    text-indent: 30px;
+    text-align: justify;
+}
+
+.derecha {
+    text-align: end;
+    font-family: cursive;
+    font-size: 19px;
+}
+

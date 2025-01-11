@@ -1,0 +1,21 @@
+.contenedor {
+    width: 600px;
+    border: 2px solid;
+    border-radius: 15px;
+    padding: 20px;
+    margin: 20px;
+}
+
+.titulo {
+    color: rgb(60, 60, 159);
+    text-transform: uppercase;
+    text-shadow: 3px 3px 3px orange;
+    text-align: center;
+    letter-spacing: 3px;
+    text-decoration: underline;
+}
+
+.parrafo {
+    word-spacing: -3px;
+    text-indent: 75px;
+}
